@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(247, 237, 223)
+}
+
+p.serif {
+    font-family: "times new roman",
+    Times, serif;
+}
+
+p {
+font-size: 20px;
+text-align: center;
+color: black;
+}
+
+div {
+    font-size: 30px;
+    text-align: center;
+    color: white;
+    background-color: black;
+}
+
+h1 {
+    font-size: 25px;
+    text-align: center;
+}
+}
+input {
+    text-align: center;
+    font-size: 15px;
+}
+b {
+    text-align: center;
+    font-size: 25px;
+}
